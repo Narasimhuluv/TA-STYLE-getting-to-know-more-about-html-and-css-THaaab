@@ -1,0 +1,28 @@
+p{
+    /* color: red; */
+    font-size: 20px;
+}
+img{
+    width: 800px;
+}
+.head{
+    background-color: purple;
+    height: 30px;
+    text-align: center;
+}
+.foot{
+    
+        background-color: rgb(247, 77, 35);
+        height: 30px;
+        text-align: center;
+
+}
+
+a{
+    color: white;
+    font-size: 20px;
+}
+
+section{
+    text-align: center;
+}
